@@ -38,9 +38,7 @@ img {
 }
 
 hr {
-  height: 2px;
-  background-color: green;
-  border-color: green;
+  border-top: 2px dotted LavenderBlush;
 }
 
 .bottom-line {
