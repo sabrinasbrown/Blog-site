@@ -13,10 +13,12 @@ h1 {
 
 h2 {
   font-size: 30px;
+  font-family: Lucida Handwriting;
 }
 
 .instructions {
   text-align: center;
+  font-family: Lucida Handwriting;
 }
 
 h1, h2, p {
@@ -39,7 +41,7 @@ img {
 }
 
 hr {
-  border-top: 2px dotted LavenderBlush;
+  border-top: 2px dotted LightPink;
 }
 
 .bottom-line {
@@ -47,7 +49,7 @@ hr {
 }
 
 h1, h2 {
-  font-family: Impact, serif;
+  font-family: Lucida Handwriting;;
 }
 
 .item p {
