@@ -58,7 +58,7 @@ h1, h2 {
   font-size: 18px;
 }
 
-.flavor, .dessert {
+.type {
   text-align: left;
   width: 75%;
 }
