@@ -14,8 +14,8 @@ h2 {
   font-size: 30px;
 }
 
-.established {
-  font-style: italic;
+.instructions {
+  text-align: center;
 }
 
 h1, h2, p {
