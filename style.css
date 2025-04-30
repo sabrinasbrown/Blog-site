@@ -1,11 +1,12 @@
 body {
   background-image: url("tulip.png");
-  font-family: sans-serif;
+  font-family: Lucida Handwriting;
   padding: 20px;
 }
 
 h1 {
   font-size: 40px;
+  font-family: Lucida Handwriting;
   margin-top: 0;
   margin-bottom: 15px;
 }
